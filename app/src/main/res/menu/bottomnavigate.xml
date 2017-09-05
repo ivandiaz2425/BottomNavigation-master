@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item1"
+        android:title="@string/str1_1"
+        android:icon="@drawable/icons8_actualizar_96"
+        />
+    <item android:id="@+id/item2"
+        android:title="@string/str1_2"
+        android:icon="@drawable/icons8_corazones_96"
+        />
+    <item android:id="@+id/item3"
+        android:title="@string/str1_3"
+        android:icon="@drawable/icons8_cerca_de_m__96"
+        />
+</menu>

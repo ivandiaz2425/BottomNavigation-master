@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="menu1">Opcion Uno</string>
+    <string name="str1_1">Recents</string>
+    <string name="str1_2">Favorites</string>
+    <string name="str1_3">Nearvy</string>
+    <string name="str1_4">Pantalla 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str1_5">Pantalla2</string>
+    <string name="str1_6">Pantalla3</string>
+    <string name="txt10">Ivan Dario Diaz Rosero</string>
+    <string name="txt11">Ingenieria de Sistemas - Octavo semestre - Android</string>
+    <string name="txt1">Paiseje de la Tota</string>
+    <string name="txt_12">Un Paisaje Bonito</string>
+
+
+    <string name="app_name">Ivan Diaz</string>
+    <string name="txt2">Prague, Czech Republic</string>
+    <string name="tx1">Johnny Depp</string>
+    <string name="tx3">42</string>
+    <string name="tx4">Stories</string>
+    <string name="tx6">517</string>
+    <string name="tx7">Followers</string>
+    <string name="tx8">284</string>
+    <string name="tx9">Following</string>
+    <string name="tx10">My trip to Italy</string>
+    <string name="tx11">I just returned from Italy, Visiting Rome,Venice over the course of two weeks. I went with</string>
+
+
+    <string name="xt1">Fresh Homemade Burger</string>
+    <string name="xt2">Price:</string>
+    <string name="xt3">$5</string>
+    <string name="xt4">(215)</string>
+    <string name="xt5">Description</string>
+    <string name="xt6">Lorem ipsum dolor sit arnet, consectetur adipsicing elit. Suspendisse sed leo teilus. Praesent nec vehicula liguia, non laoreet ligula. Maecenas at massa eget orci porttitor semper. sed lobortis magna in faucibus commodo. Ut purus odio, gravida sit amet lacreet at, dicturn et uma</string>
+
+</resources>
